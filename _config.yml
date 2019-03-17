@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 926076608                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -17,12 +17,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
+your_link                                 : https://coinchallenges.app/                     
 your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+email_address                             : coin.challenge.hi@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
+instagram_username                        : coin_challenges
+twitter_username                          : coin_challenges
 github_username                           : emilbaehr
 youtube_username                          :
 
